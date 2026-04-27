@@ -16,7 +16,6 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
  
 * **Habilidades Técnicas:** Python, Java, SQL, AWS, Docker, MongoDb.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
 ---
  
