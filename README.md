@@ -1,5 +1,5 @@
-# [Caique Bezerra de Oliveira]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# Caique Bezerra de Oliveira
+> Estudante de Ciência da Computação
  
 ---
  
