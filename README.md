@@ -55,7 +55,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | :--- | :--- | :---: |
 | **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/caf3e04e614aec5477fb5461bbf26a6996afbf22/Projeto_PixelQr)|
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto](https://github.com/bryanthomas-dev/portif-lio_Bryan_Thomas/tree/6d46b03d0a6be384d52a7a0da6d7fbd4cac1ff24/Do%20Clone%20ao%20Produto%20M%C3%ADnimo%20Vi%C3%A1vel%20(MVP%2B))|
-| **SM7 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto](https://github.com/bryanthomas-dev/portif-lio_Bryan_Thomas/tree/dfea3f492e567b98909fb359c802d9e5ed4e4535/Engenharia%20de%20Software%20e%20IA%20com%20Bubble) |
+| **SM7 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio_Caique-Bezerra0/tree/0479e2d6af3df9b653e4b11f3e0107e466c3b76c/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
 
 ---
 
