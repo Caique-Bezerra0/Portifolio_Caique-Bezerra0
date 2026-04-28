@@ -47,14 +47,14 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **SM1 - A Corrida do Prompt** | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/59cebc58380e5678f7d06c8e26fad3f2643ddb12/Projeto_a_corrida_prompt) |
-| **SM2 - Laboratório de Classificação Visual** | Experimentos com modelos de IA para classificação e análise de imagens. | [Ver Projeto](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/caf3e04e614aec5477fb5461bbf26a6996afbf22/Projeto_PixelQr)|
+| **SM2 - Laboratório de Classificação Visual** | Experimentos com modelos de IA para classificação e análise de imagens. | [Ver Projeto]|
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/beb4573639fe7b76dfa4174c75186a0d48de728f/Batalha%20de%20Modelos%20%26%20Engenharia%20de%20Prompt) |
 
 #### 🔧 Engenharia de Software & Produto
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](https://github.com/bryanthomas-dev/portif-lio_Bryan_Thomas/tree/684f65306519a271b3d5b7c85a1e2a188df88bf2/Engenharia%20Reversa) |
+| **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/caf3e04e614aec5477fb5461bbf26a6996afbf22/Projeto_PixelQr)|
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto](https://github.com/bryanthomas-dev/portif-lio_Bryan_Thomas/tree/6d46b03d0a6be384d52a7a0da6d7fbd4cac1ff24/Do%20Clone%20ao%20Produto%20M%C3%ADnimo%20Vi%C3%A1vel%20(MVP%2B))|
 | **SM7 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto](https://github.com/bryanthomas-dev/portif-lio_Bryan_Thomas/tree/dfea3f492e567b98909fb359c802d9e5ed4e4535/Engenharia%20de%20Software%20e%20IA%20com%20Bubble) |
 
