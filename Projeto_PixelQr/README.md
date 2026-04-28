@@ -6,9 +6,7 @@ Este projeto consiste em um gerador de QR Codes altamente customizável que ofer
 
 Desenvolvido com foco em **experiência do usuário e design**, o sistema permite criar QR Codes com identidade visual única, combinando gradientes personalizados, inserção de logotipos, temas claros e escuros (modo dark/light) e uma galeria de presets prontos para uso.
 
-> 💡 **Dica de ouro:** Tire um print do site no **modo dark** e outro no **modo light** e coloque logo no início do arquivo `README.md`. Isso chama muito a atenção de quem visita seu perfil!
-
-*Figura 1: Interface principal do PixelQR exibindo o painel de personalização em modo dark.*
+![Pixel QR](assets/pixelqr.png)
 
 ## 🚀 Tecnologias Utilizadas
 
