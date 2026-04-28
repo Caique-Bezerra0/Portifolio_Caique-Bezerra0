@@ -23,7 +23,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
  
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/14b460ba-e49b-4cca-82e2-7df64507eb78" />
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
