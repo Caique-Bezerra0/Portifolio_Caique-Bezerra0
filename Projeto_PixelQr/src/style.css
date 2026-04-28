@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  /* Light Theme Variables */
+  --color-bg-primary: #f9fafb;
+  --color-bg-secondary: #ffffff;
+  --color-bg-accent: #f3f4f6;
+  --color-text-primary: #111827;
+  --color-text-secondary: #4b5563;
+  --color-border: #e5e7eb;
+  --color-surface: #ffffff;
+  --color-header: #1a1a1a;
+  --color-accordion-header: #d7d7d7;
+}
+
+/* Dark Theme Overrides (using data-theme attribute) */
+[data-theme='dark'] {
+  --color-bg-primary: #111827;
+  --color-bg-secondary: #1f2937;
+  --color-bg-accent: #374151;
+  --color-text-primary: #f9fafb;
+  --color-text-secondary: #9ca3af;
+  --color-border: #374151;
+  --color-surface: #1f2937;
+  --color-header: #0a0a0a;
+  --color-accordion-header: #374151;
+}
+
+/* Base styles using variables */
+body {
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark-transition {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
