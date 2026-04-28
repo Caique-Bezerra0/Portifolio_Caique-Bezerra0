@@ -21,7 +21,6 @@ Desenvolvido com foco em **experiência do usuário e design**, o sistema permit
 * **Histórico de geração:** Acesse e reutilize QR Codes gerados anteriormente.
 * **Modo dark/light:** Interface adaptável com alternância entre temas.
 
-*Figura 2: Demonstração dos presets de estilo disponíveis e painel de configurações.*
 
 ## 🔧 Como Executar
 
@@ -30,7 +29,6 @@ Desenvolvido com foco em **experiência do usuário e design**, o sistema permit
 3. Execute o comando: `npm run dev`.
 4. Acesse em: `http://localhost:5173`.
 
-*Figura 3: Fluxo visual de personalização — do input ao QR Code gerado.*
 
 ---
 
