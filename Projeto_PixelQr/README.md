@@ -6,8 +6,6 @@ Este projeto consiste em um gerador de QR Codes altamente customizável que ofer
 
 Desenvolvido com foco em **experiência do usuário e design**, o sistema permite criar QR Codes com identidade visual única, combinando gradientes personalizados, inserção de logotipos, temas claros e escuros (modo dark/light) e uma galeria de presets prontos para uso.
 
-![Pixel QR](assets/pixelqr.png)
-
 ## 🚀 Tecnologias Utilizadas
 
 * **Linguagem:** JavaScript (Vanilla JS)
