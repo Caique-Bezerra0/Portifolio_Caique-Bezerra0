@@ -46,7 +46,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto](https://github.com/bryanthomas-dev/portif-lio_Bryan_Thomas/tree/fc0534636a6733a18c697fa8c394e28466647d7d/A%20Corrida%20do%20Prompt) |
+| **SM1 - A Corrida do Prompt** | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto](https://github.com/bryanthomas-dev/portif-lio_Bryan_Thomas/tree/fc0534636a6733a18c697fa8c394e28466647d7d/A%20Corrida%20do%20Prompt)](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/59cebc58380e5678f7d06c8e26fad3f2643ddb12/Projeto_a_corrida_prompt) |
 | **SM2 - Laboratório de Classificação Visual** | Experimentos com modelos de IA para classificação e análise de imagens. | [Ver Projeto](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/caf3e04e614aec5477fb5461bbf26a6996afbf22/Projeto_PixelQr)|
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto](https://github.com/bryanthomas-dev/portif-lio_Bryan_Thomas/tree/af08b8f6be86ac292659d23967ba83fd1613a8c6/Batalha%20de%20Modelos%20%26%20Engenharia%20de%20Prompt) |
 
