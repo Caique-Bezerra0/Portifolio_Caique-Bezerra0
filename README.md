@@ -14,7 +14,7 @@
 ### 👨‍💻 Sobre
 Atualmente cursando o 2º período de Ciência da Computação na Universidade da Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend e Análise de Dados.
  
-* **Habilidades Técnicas:** Python, Java, SQL, Pandas e Postgresql.
+* **Habilidades Técnicas:** HTML, CSS, JavaScript, Python, Java, SQL, Pandas e Postgresql.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
  
 ---
