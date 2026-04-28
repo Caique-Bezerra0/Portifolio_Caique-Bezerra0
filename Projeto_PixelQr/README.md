@@ -1,34 +1,41 @@
-# 🎬 Sistema de Recomendação de Filmes
- 
+# 🟦 PixelQR — Gerador de QR Codes Ultra-Personalizáveis
+
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O objetivo principal é mitigar a "paralisia de escolha", oferecendo aos usuários sugestões personalizadas com base em seu histórico de visualização e preferências de gênero.
- 
-Desenvolvido como parte da disciplina de **Inteligência Artificial (2024.1)**, o sistema processa grandes volumes de dados (datasets de filmes e avaliações) para identificar padrões de comportamento e similaridades entre títulos, utilizando algoritmos de aprendizado de máquina para prever a nota que um usuário daria a um filme ainda não assistido.
- 
-http://googleusercontent.com/image_generation_content/0
-*Figura 1: Dashboard principal do sistema exibindo recomendações personalizadas.*
- 
+
+Este projeto consiste em um gerador de QR Codes altamente customizável que oferece suporte a logos, gradientes, presets de estilo e histórico de geração. O objetivo principal é eliminar a limitação dos geradores tradicionais, entregando ao usuário controle total sobre a aparência visual do seu QR Code — sem abrir mão da funcionalidade.
+
+Desenvolvido com foco em **experiência do usuário e design**, o sistema permite criar QR Codes com identidade visual única, combinando gradientes personalizados, inserção de logotipos, temas claros e escuros (modo dark/light) e uma galeria de presets prontos para uso.
+
+> 💡 **Dica de ouro:** Tire um print do site no **modo dark** e outro no **modo light** e coloque logo no início do arquivo `README.md`. Isso chama muito a atenção de quem visita seu perfil!
+
+*Figura 1: Interface principal do PixelQR exibindo o painel de personalização em modo dark.*
+
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** Python 3.10
-* **Bibliotecas:** Pandas, Scikit-learn, Matplotlib
-* **Ferramentas:** Jupyter Notebook, Google Colab
- 
-## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o sistema agrupa filmes por afinidade.
- 
-![Gráfico de Performance e Métricas](IMAGEM_2_AQUI)
-*Figura 2: Análise métrica do desempenho do modelo.*
- 
+
+* **Linguagem:** JavaScript (Vanilla JS)
+* **Estilização:** Tailwind CSS
+* **Bibliotecas:** QRCode.js
+* **Ferramentas:** VS Code, Vite
+
+## ✨ Funcionalidades
+
+* **Suporte a logos:** Insira sua marca diretamente no centro do QR Code.
+* **Gradientes personalizados:** Escolha cores de início e fim para criar designs únicos.
+* **Presets de estilo:** Use estilos prontos para gerar QR Codes profissionais em segundos.
+* **Histórico de geração:** Acesse e reutilize QR Codes gerados anteriormente.
+* **Modo dark/light:** Interface adaptável com alternância entre temas.
+
+*Figura 2: Demonstração dos presets de estilo disponíveis e painel de configurações.*
+
 ## 🔧 Como Executar
+
 1. Clone o repositório.
-2. Instale as dependências: `pip install -r requirements.txt`.
-3. Execute o comando: `python main.py`.
- 
-![Demonstração do Fluxo de Dados](IMAGEM_3_AQUI)
-*Figura 3: Representação visual do pipeline de dados.*
- 
+2. Instale as dependências: `npm install`.
+3. Execute o comando: `npm run dev`.
+4. Acesse em: `http://localhost:5173`.
+
+*Figura 3: Fluxo visual de personalização — do input ao QR Code gerado.*
+
 ---
+
 [Voltar ao início](https://github.com/seu-usuario/seu-usuario)
