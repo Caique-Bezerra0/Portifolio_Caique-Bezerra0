@@ -43,7 +43,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **PixelQr** | Gerador de QR Codes ultra-personalizáveis com suporte a logos, gradientes, presets de estilo, histórico e modo dark/light. Desenvolvido com Vanilla JS e Tailwind CSS. | [Ver Projeto]([./projeto-ia-churn/](https://aistudio.google.com/apps/e3ff0d08-bf69-4509-b856-c4bf63edd358?showAssistant=true&showPreview=true&fullscreenApplet=true)) |
+| **PixelQr** | Gerador de QR Codes ultra-personalizáveis com suporte a logos, gradientes, presets de estilo, histórico e modo dark/light. Desenvolvido com Vanilla JS e Tailwind CSS. | [Ver Projeto](Projeto_PixelQr) |
  
 ---
  
