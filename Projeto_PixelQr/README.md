@@ -13,7 +13,7 @@ Captura de tela 2026-04-27 213734.png
 * **Linguagem:** JavaScript (Vanilla JS)
 * **Estilização:** Tailwind CSS
 * **Bibliotecas:** QRCode.js
-* **Ferramentas:** VS Code, Vite
+* **Ferramentas:** Google IA Studio
 
 ## ✨ Funcionalidades
 
