@@ -113,4 +113,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou e
 
 ---
 
-[⬆ Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
