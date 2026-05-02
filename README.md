@@ -50,8 +50,6 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | **SM2 - Laboratório de Classificação Visual** | Usando o teachablemachine para treinamento de um modelo de machine learnig. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/e7dce0a99ba251a2269df570a598d477f18652cc/Laborat%C3%B3rio_de_Classifica%C3%A7%C3%A3o_Visual) |
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/e7dce0a99ba251a2269df570a598d477f18652cc/Batalha_de_Modelos_e_Engenharia_de_Prompt)|
 
-#### 🔧 Engenharia de Software & Produto
-
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/b5e427a23ed881d176f9ecd5cbdbbed976d74235/Projeto_PixelQr)|
