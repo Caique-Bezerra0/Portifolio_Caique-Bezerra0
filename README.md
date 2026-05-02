@@ -48,7 +48,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | :--- | :--- | :---: |
 | **SM1 - A Corrida do Prompt** | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/59cebc58380e5678f7d06c8e26fad3f2643ddb12/Projeto_a_corrida_prompt) |
 | **SM2 - Laboratório de Classificação Visual** | Usando o teachablemachine para treinamento de um modelo de machine learnig. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/a179b28de0e2cb17efcac72b2c7c0667a58e496d/Laborat%C3%B3rio_de_Classifica%C3%A7%C3%A3o_Visual) |
-| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto](https://github.com/Caique-Bezerra0/Portifolio_Caique_Bezerra/tree/beb4573639fe7b76dfa4174c75186a0d48de728f/Batalha%20de%20Modelos%20%26%20Engenharia%20de%20Prompt) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/77a3c3c6462d5d35ded3d9fe438836ad75ffb45d/Batalha_de_Modelos_e_Engenharia_de_Prompt)|
 
 #### 🔧 Engenharia de Software & Produto
 
