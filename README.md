@@ -49,9 +49,6 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | **SM1 - A Corrida do Prompt** | Exploração de técnicas de prompting para otimizar interações com modelos de linguagem. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/4976dcc02982bfd3934e385762652c2db2153b2e/Projeto_a_corrida_prompt) |
 | **SM2 - Laboratório de Classificação Visual** | Usando o teachablemachine para treinamento de um modelo de machine learnig. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/e7dce0a99ba251a2269df570a598d477f18652cc/Laborat%C3%B3rio_de_Classifica%C3%A7%C3%A3o_Visual) |
 | **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparativo entre modelos de IA e uso avançado de XML na estruturação de prompts. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/e7dce0a99ba251a2269df570a598d477f18652cc/Batalha_de_Modelos_e_Engenharia_de_Prompt)|
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
 | **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/b5e427a23ed881d176f9ecd5cbdbbed976d74235/Projeto_PixelQr)|
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/1b96d02832890427b21f5ba06e649142a4f8b50f/Do_clone_ao_produto_minimo)|
 | **SM6 - Criação de Musicas com o SunoIA** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/f0ced9b03346effd134a447f23eb762041c55294/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
