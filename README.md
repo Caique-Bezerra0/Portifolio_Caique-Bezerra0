@@ -56,7 +56,9 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | :--- | :--- | :---: |
 | **SM4 - Engenharia Reversa** | Análise e documentação reversa de sistemas e fluxos de software. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/b5e427a23ed881d176f9ecd5cbdbbed976d74235/Projeto_PixelQr)|
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/1b96d02832890427b21f5ba06e649142a4f8b50f/Do_clone_ao_produto_minimo)|
+| **SM6 - Criação de Musicas com o SunoIA** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/f0ced9b03346effd134a447f23eb762041c55294/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
 | **SM7 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/f0ced9b03346effd134a447f23eb762041c55294/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
+
 
 ---
 
