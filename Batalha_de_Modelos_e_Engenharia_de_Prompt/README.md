@@ -15,3 +15,5 @@ Na atividade aprendi a diferença de tokenização entre as IAs que como cada um
 * **Redução de Ruído:** Aprendi a aplicar técnicas de prompt para diferenciar a clareza das LLMs
  
 ---
+
+[Voltar ao início](https://github.com/Caique-Bezerra0)
