@@ -34,7 +34,7 @@ O **TalkBridge** combina o melhor de dois mundos: a flexibilidade do **Expo Rout
 
 | iOS | Android | Web |
 |:---:|:---:|:---:|
-| [📱 Screenshot](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/bf3caa4704a9dd4c0af67af013f734cc6fa8ab28/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Iphone) | [🤖 Screenshot](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/08c31d50358fa2f24dae683487f93ad82f892e20/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Android) | [🌐 Screenshot](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/08c31d50358fa2f24dae683487f93ad82f892e20/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Web) |
+| [📱 IOS](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/bf3caa4704a9dd4c0af67af013f734cc6fa8ab28/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Iphone) | [🤖 Android](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/08c31d50358fa2f24dae683487f93ad82f892e20/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Android) | [🌐 Web](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/08c31d50358fa2f24dae683487f93ad82f892e20/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Web) |
 
 ---
 
