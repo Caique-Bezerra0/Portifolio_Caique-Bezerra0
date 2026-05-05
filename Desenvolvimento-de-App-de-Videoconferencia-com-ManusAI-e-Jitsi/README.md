@@ -32,9 +32,9 @@ O **TalkBridge** combina o melhor de dois mundos: a flexibilidade do **Expo Rout
 ## 2. 📸 Capturas de Tela
 
 
-| iOS | Android | Web |
+| iOS |
 |:---:|:---:|:---:|
-| `[ |[Ver Projeto](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/bf3caa4704a9dd4c0af67af013f734cc6fa8ab28/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Iphone) |]` | `[|[Ver Projeto](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/3e2b676c6ad972cc99e6e59d3e012f933a711280/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Android) |]` | `[ screenshot ]` |
+| `[ |[Ver Projeto](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/bf3caa4704a9dd4c0af67af013f734cc6fa8ab28/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Iphone) |]`
 
 ---
 
