@@ -53,7 +53,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** | Desenvolvimento de um produto digital partindo de um clone até um MVP funcional. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/1b96d02832890427b21f5ba06e649142a4f8b50f/Do_clone_ao_produto_minimo)|
 | **SM6 - Criação de Musicas com o SunoIA** | Criação de músicas com Inteligência Artificial. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/ecefe226cc20e9890612b060dc8161f35a2ccf99/Musicas_Suno.IA) |
 | **SM7 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/f0ced9b03346effd134a447f23eb762041c55294/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
-| **SM8 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto](https://github.com/Caique-Bezerra0/portifolio-caique-bezerra-de-oliveira/tree/f0ced9b03346effd134a447f23eb762041c55294/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
+| **SM8 - Engenharia de Software e IA com Bubble.io** | Construção de aplicações com ferramentas no-code integradas à Inteligência Artificial. | [Ver Projeto](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/e822f64b197435eca2a0239025367f5bbd1b79ae/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi) |
 
 
 
