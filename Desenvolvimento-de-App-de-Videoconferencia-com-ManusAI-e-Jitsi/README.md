@@ -34,7 +34,7 @@ O **TalkBridge** combina o melhor de dois mundos: a flexibilidade do **Expo Rout
 
 | iOS | Android | Web |
 |:---:|:---:|:---:|
-| `[ screenshot ]` | `[ (https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/3e2b676c6ad972cc99e6e59d3e012f933a711280/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Android) ]` | `[ screenshot ]` |
+| `[ screenshot ]` | `[| [Ver Projeto](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/tree/3e2b676c6ad972cc99e6e59d3e012f933a711280/Desenvolvimento-de-App-de-Videoconferencia-com-ManusAI-e-Jitsi/Screenshot-Android) | ]` | `[ screenshot ]` |
 
 ---
 
