@@ -31,13 +31,10 @@ O **TalkBridge** combina o melhor de dois mundos: a flexibilidade do **Expo Rout
 
 ## 2. 📸 Capturas de Tela
 
-> _Adicione aqui screenshots ou GIFs do app em funcionamento._
 
 | iOS | Android | Web |
 |:---:|:---:|:---:|
 | `[ screenshot ]` | `[ screenshot ]` | `[ screenshot ]` |
-
-> 💡 **Dica:** Ferramentas como [Screely](https://screely.com) ou [Rotato](https://rotato.app) ajudam a gerar mockups bonitos para o README.
 
 ---
 
